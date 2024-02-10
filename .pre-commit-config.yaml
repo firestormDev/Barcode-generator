@@ -10,9 +10,9 @@
 #     hooks:
 #     -   id: black
 repos:
--   repo: local
+  - repo: local
     hooks:
-    -   id: pylint
+      - id: pylint
         name: pylint
         entry: pylint
         language: system
