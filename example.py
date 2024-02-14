@@ -5,11 +5,5 @@ def myFunc():
 # Pylint
 # Snake_case -> Funções, Variaveis, Metodos
 # PascalCase -> Classes
-    
 
 
-
-
-
-
-    
